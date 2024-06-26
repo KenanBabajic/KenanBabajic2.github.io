@@ -1,0 +1,200 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Josefin Sans', sans-serif; /* Updated font */
+  background-color: black;
+}
+  
+  .topnav {
+    overflow: hidden;
+    background-color: bl;
+    border-bottom: 1px solid white;
+    border-top: 1px solid black;
+  }
+  
+  .topnav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  
+  .topnav a:hover {
+    background-color: #ddd;
+    color: black;
+  }
+  
+  .topnav a.active {
+    background-color: #3498db;
+    color: white;
+  }
+  
+  .Bgimg {
+      position: relative;
+    height: 300px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+  .ElectronicsShop {
+      text-align: center;
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 100px;
+    color: white;
+    border-radius: 10%;
+border: 1px solid white;
+    box-shadow: 10px 10px 5px black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    }
+
+    .Welcome {
+      margin: 0;
+      color: white;
+      font-size: 50px;
+      text-align: center;
+      font-family: 'Courier New', Courier, monospace;
+      margin-top: 10px;
+    }
+
+    .Welcome2 {
+      margin: 0;
+      color: white;
+      font-size: 25px;
+      text-align: center;
+      font-family: 'Courier New', Courier, monospace;
+      margin-top: 10px;
+    }
+
+    .Welcome3 {
+      padding: 20px;
+      margin: 20px;
+      color: white;
+      font-size: 25px;
+      text-align: center;
+      font-family: 'Courier New', Courier, monospace;
+      margin-top: 10px;
+    }
+
+
+    .HomeContent {
+      width: 100%;
+      height: auto;
+      overflow: hidden;
+      margin-left: 10%;
+    }
+
+    .HomeContent img {
+      width: 25%;
+      height: 25%;
+    }
+
+    footer {
+      margin-top: 40px;
+      text-align: center;
+      border: 1px solid white;
+      color: white;
+    }
+
+    .Electronic {
+      height: 500px;
+      width: 800px;
+      display: block;
+      margin: 0 auto;
+    }
+
+    .AboutText {
+      color:white;
+      text-align: center;
+      font-family: 'Courier New', Courier, monospace;
+        line-height: 50px;
+        height: 200px;
+    }
+
+    .AboutText2 {
+      color:white;
+      text-align: center;
+      font-family: 'Courier New', Courier, monospace;
+    }
+
+    iframe {
+      width:600px;
+      height:450px;
+    border: border 0;
+    display: block;
+    margin: 0 auto;
+    }
+  
+    .address {
+      color: white;
+      text-align: center;
+      font-family: 'Courier New', Courier, monospace;
+    }
+
+    .address a {
+      color: white;
+    }
+
+    .products {
+      display: block;
+      margin: 0 auto;
+      max-width: 100%;
+      height: auto;
+      height: 412px;
+    }
+
+    .productsheader {
+      color: white;
+      text-align: center;
+      font-family: 'Courier New', Courier, monospace;
+      border: 1px solid white;
+    }
+
+    .productsdescription {
+      margin-top: 40px;
+      padding: 20px;
+      color: white;
+      text-align: center;
+      font-family: 'Courier New', Courier, monospace;
+      border: 1px solid white;
+    }
+
+    p {
+      color: white;
+    }
+
+    .productsprice {
+      font-size: x-large;
+      color: white;
+      text-align: center;
+      font-family: 'Courier New', Courier, monospace;
+      border: 1px solid white;
+    }
+
+    .myTable { 
+      margin: 0 auto;
+      text-align: center;
+      width:400px;
+      background-color:#eee;
+      border-collapse:collapse; 
+    }
+
+    .myTable th { 
+      background-color:#000;
+      color:white;
+      width:50%;
+     }
+
+    .myTable td, .myTable th { 
+      padding:5px;
+      border:1px solid #000; 
+    }
+
+  
